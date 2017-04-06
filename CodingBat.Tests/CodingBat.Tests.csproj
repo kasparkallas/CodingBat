@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Warmup1Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Warmup2Tests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBat\CodingBat.csproj">
