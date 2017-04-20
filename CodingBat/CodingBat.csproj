@@ -41,7 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Warmup1.cs" />
+    <Compile Include="Warmup1Test.cs" />
     <Compile Include="Warmup2.cs" />
     <Compile Include="Warmup2Solutions.cs" />
   </ItemGroup>

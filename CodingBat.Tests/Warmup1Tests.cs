@@ -6,7 +6,7 @@ namespace CodingBat.Tests
     [TestFixture]
     public class Warmup1Tests
     {
-        private Warmup1 _warmup1 = new Warmup1();
+        private Warmup1Test _warmup1 = new Warmup1Test();
 
         [Test]
         [TestCase(false, false, true)]

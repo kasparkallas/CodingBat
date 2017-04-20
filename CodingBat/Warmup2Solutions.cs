@@ -20,6 +20,21 @@ namespace CodingBat
 
 
 
+
+        //int countXX(String str)
+        //{
+        //    int count = 0;
+        //    for (int i = 0; i < str.length() - 1; i++)
+        //    {
+        //        if (str.substring(i, i + 2).equals("xx")) count++;
+        //    }
+        //    return count;
+        //}
+        //// Solution notes: the loop is shortened to end at str.length()-1
+        //// so we can pull out a length 2 substring without going out of bounds.
+        //// Remember to use equals() to compare strings, not ==.
+
+
         //public String frontTimes(String str, int n)
         //{
         //    int frontLen = 3;
@@ -39,21 +54,6 @@ namespace CodingBat
 
 
 
-        //int countXX(String str)
-        //{
-        //    int count = 0;
-        //    for (int i = 0; i < str.length() - 1; i++)
-        //    {
-        //        if (str.substring(i, i + 2).equals("xx")) count++;
-        //    }
-        //    return count;
-        //}
-        //// Solution notes: the loop is shortened to end at str.length()-1
-        //// so we can pull out a length 2 substring without going out of bounds.
-        //// Remember to use equals() to compare strings, not ==.
-
-
-
         //boolean doubleX(String str)
         //{
         //    int i = str.indexOf("x");
@@ -68,6 +68,7 @@ namespace CodingBat
         //    // return x.startsWith("xx");
         //}
 
+        // Test-test-test
 
 
         //public String stringBits(String str)
